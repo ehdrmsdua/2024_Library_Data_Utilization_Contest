@@ -3,7 +3,7 @@
 ## Period: 2024.06 - 2024.08 <br/>
 ### Leader : <br/>
 ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Donggeun YEOM - Sungkyul Univ_Industrial Management Engineering <br/>
-### Member : <br/>
+### Members : <br/>
 Yongchan SON - Chungang Univ_Software <br/>
 Sumin I- Kookmin Univ_Information Security, Cryptography and Mathematics <br/>
 ### Announcement Document:<br/>
